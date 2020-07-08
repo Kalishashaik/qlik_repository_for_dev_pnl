@@ -33,6 +33,10 @@
       "qType": "barchart"
     },
     {
+      "qId": "_gitoqlikLastCommitId",
+      "qType": "_gitoqlikLastCommitId"
+    },
+    {
       "qId": "aabfa5a0-973c-41fe-a481-56d3382d6c5e",
       "qType": "treemap"
     }

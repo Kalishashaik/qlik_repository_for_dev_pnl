@@ -7,9 +7,10 @@
       },
       "qMetaDef": {
         "title": "Sheet1",
-        "description": ""
+        "description": "",
+        "isBlueprintItem": true
       },
-      "rank": -0.01,
+      "rank": -0.0001,
       "thumbnail": {
         "qStaticContentUrlDef": {}
       },
@@ -21,12 +22,12 @@
           "type": "table",
           "col": 0,
           "row": 0,
-          "colspan": 15,
+          "colspan": 19,
           "rowspan": 7,
           "bounds": {
             "y": 0,
             "x": 0,
-            "width": 62.5,
+            "width": 79.16666666666666,
             "height": 58.333333333333336
           }
         },
@@ -232,12 +233,68 @@
                   "qMsg": {}
                 },
                 "qTrendLines": []
+              },
+              {
+                "qDef": {
+                  "qTags": [],
+                  "qGrouping": "N",
+                  "qDef": "Count(pnl_branch_cd)",
+                  "qNumFormat": {
+                    "qType": "U",
+                    "qnDec": 10,
+                    "qUseThou": 0
+                  },
+                  "qAggrFunc": "Expr",
+                  "qAccumulate": 0,
+                  "qActiveExpression": 0,
+                  "qExpressions": [],
+                  "autoSort": true,
+                  "cId": "yTPjkL",
+                  "numFormatFromTemplate": true,
+                  "textAlign": {
+                    "auto": true,
+                    "align": "left"
+                  },
+                  "representation": {
+                    "type": "text",
+                    "indicator": {
+                      "showTextValues": true,
+                      "applySegmentColors": false,
+                      "position": "right"
+                    }
+                  },
+                  "conditionalColoring": {
+                    "segments": {
+                      "limits": [],
+                      "paletteColors": [
+                        {
+                          "index": 6,
+                          "icon": "dot"
+                        }
+                      ]
+                    }
+                  }
+                },
+                "qSortBy": {
+                  "qSortByNumeric": -1,
+                  "qSortByLoadOrder": 1,
+                  "qExpression": {}
+                },
+                "qAttributeExpressions": [],
+                "qAttributeDimensions": [],
+                "qCalcCond": {},
+                "qCalcCondition": {
+                  "qCond": {},
+                  "qMsg": {}
+                },
+                "qTrendLines": []
               }
             ],
             "qInterColumnSortOrder": [
               0,
               1,
-              2
+              2,
+              3
             ],
             "qSuppressMissing": true,
             "qInitialDataFetch": [],
@@ -255,15 +312,18 @@
             "qColumnOrder": [
               0,
               1,
-              2
+              2,
+              3
             ],
             "qExpansionState": [],
             "columnOrder": [
               0,
               1,
-              2
+              2,
+              3
             ],
             "columnWidths": [
+              -1,
               -1,
               -1,
               -1
@@ -624,9 +684,10 @@
       },
       "qMetaDef": {
         "title": "Sheet2",
-        "description": ""
+        "description": "",
+        "isBlueprintItem": true
       },
-      "rank": 0.01,
+      "rank": 0.0001,
       "thumbnail": {
         "qStaticContentUrlDef": {}
       },
@@ -939,9 +1000,10 @@
       },
       "qMetaDef": {
         "title": "Sheet3",
-        "description": ""
+        "description": "",
+        "isBlueprintItem": true
       },
-      "rank": 0.02,
+      "rank": 0.0002,
       "thumbnail": {
         "qStaticContentUrlDef": {}
       },
