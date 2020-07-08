@@ -1,7 +1,7 @@
 ///$tab Main
 LOAD
     pnl_station_id,
-    pnl_branch_id as branch_ID,
+    pnl_branch_id,
     pnl_branch_cd,
     pnl_branch_nm,
     pnl_currency_cd,
