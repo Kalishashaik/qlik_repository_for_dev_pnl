@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "qInfo": {
+      "qId": "fb0ebb06-e010-419f-bbf6-e338a82decdb",
+      "qType": "variable"
+    },
+    "qMetaDef": {},
+    "qName": "vtest",
+    "qNumberPresentation": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    },
+    "qDefinition": "Count(pnl_branch_cd)",
+    "tags": []
+  }
+]

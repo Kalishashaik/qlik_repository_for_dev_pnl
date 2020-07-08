@@ -5,6 +5,10 @@
       "qType": "sheet"
     },
     {
+      "qId": "24bc609e-6ff7-4cbf-9746-dec6267693b5",
+      "qType": "sheet"
+    },
+    {
       "qId": "25a87fc2-0af3-470c-8a78-227789b99216",
       "qType": "appprops"
     },
@@ -31,6 +35,10 @@
     {
       "qId": "PPAsyYj",
       "qType": "barchart"
+    },
+    {
+      "qId": "VJqyqwK",
+      "qType": "kpi"
     },
     {
       "qId": "_gitoqlikLastCommitId",
