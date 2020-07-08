@@ -1,0 +1,38 @@
+///$tab Main
+LOAD
+    pnl_station_id,
+    pnl_branch_id,
+    pnl_branch_cd,
+    pnl_branch_nm,
+    pnl_currency_cd,
+    pnl_currency_nm,
+    pnl_org_unit_crest_cd,
+    pnl_org_unit_crest_nm,
+    pnl_station_cd,
+    pnl_station_nm,
+    pnl_station_crest_cd,
+    pnl_district_cd,
+    pnl_district_nm,
+    pnl_district_crest_cd,
+    pnl_rep_unit_crest_cd,
+    pnl_rep_unit_crest_nm,
+    pnl_territory_cd,
+    pnl_territory_nm,
+    pnl_territory_gps_cd,
+    pnl_country_cd,
+    pnl_country_nm,
+    pnl_country_crest_cd,
+    pnl_country_cluster_cd,
+    pnl_country_cluster_nm,
+    pnl_country_cluster_crest_cd,
+    pnl_subregion_cd,
+    pnl_subregion_nm,
+    pnl_sub_region_crest_cd,
+    pnl_region_cd,
+    pnl_region_nm,
+    pnl_region_crest_cd,
+    pnl_crest_reporting_type
+FROM [lib://FRP_Forwin/Source Data/QVD File/V_DIM_LOCATION_PNL.qvd]
+(qvd);
+
+exit Script;

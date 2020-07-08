@@ -1,0 +1,40 @@
+{
+  "qInfos": [
+    {
+      "qId": "02030653-750f-44ae-ba7b-3bfb28ed14cd",
+      "qType": "sheet"
+    },
+    {
+      "qId": "25a87fc2-0af3-470c-8a78-227789b99216",
+      "qType": "appprops"
+    },
+    {
+      "qId": "46ff4bec-1cb2-4e18-b865-57c148364460",
+      "qType": "linechart"
+    },
+    {
+      "qId": "559a97b4-5349-48d9-9534-f0dfad924af2",
+      "qType": "sheet"
+    },
+    {
+      "qId": "8ecc2534-704e-4907-822d-0b4b0c71ca16",
+      "qType": "sheet"
+    },
+    {
+      "qId": "LoadModel",
+      "qType": "LoadModel"
+    },
+    {
+      "qId": "MAxMkLY",
+      "qType": "table"
+    },
+    {
+      "qId": "PPAsyYj",
+      "qType": "barchart"
+    },
+    {
+      "qId": "aabfa5a0-973c-41fe-a481-56d3382d6c5e",
+      "qType": "treemap"
+    }
+  ]
+}

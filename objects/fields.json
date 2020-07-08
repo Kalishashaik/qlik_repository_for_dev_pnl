@@ -1,0 +1,425 @@
+[
+  {
+    "qIsHidden": true,
+    "qIsSystem": true,
+    "qName": "$Field",
+    "qCardinal": 32,
+    "qTags": [
+      "$text",
+      "$ascii",
+      "$key",
+      "$hidden",
+      "$system"
+    ],
+    "qSrcTables": []
+  },
+  {
+    "qIsHidden": true,
+    "qIsSystem": true,
+    "qName": "$Table",
+    "qCardinal": 1,
+    "qTags": [
+      "$text",
+      "$ascii",
+      "$key",
+      "$hidden",
+      "$system"
+    ],
+    "qSrcTables": []
+  },
+  {
+    "qIsHidden": true,
+    "qIsSystem": true,
+    "qName": "$Rows",
+    "qCardinal": 1,
+    "qTags": [
+      "$numeric",
+      "$integer",
+      "$hidden",
+      "$system"
+    ],
+    "qSrcTables": []
+  },
+  {
+    "qIsHidden": true,
+    "qIsSystem": true,
+    "qName": "$Fields",
+    "qCardinal": 1,
+    "qTags": [
+      "$numeric",
+      "$integer",
+      "$hidden",
+      "$system"
+    ],
+    "qSrcTables": []
+  },
+  {
+    "qIsHidden": true,
+    "qIsSystem": true,
+    "qName": "$FieldNo",
+    "qCardinal": 32,
+    "qTags": [
+      "$numeric",
+      "$integer",
+      "$hidden",
+      "$system"
+    ],
+    "qSrcTables": []
+  },
+  {
+    "qIsHidden": true,
+    "qIsSystem": true,
+    "qName": "$Info",
+    "qCardinal": 1,
+    "qTags": [
+      "$text",
+      "$ascii",
+      "$hidden",
+      "$system"
+    ],
+    "qSrcTables": []
+  },
+  {
+    "qName": "pnl_station_id",
+    "qCardinal": 2879,
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "V_DIM_LOCATION_PNL"
+    ]
+  },
+  {
+    "qName": "pnl_branch_id",
+    "qCardinal": 2879,
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "V_DIM_LOCATION_PNL"
+    ]
+  },
+  {
+    "qName": "pnl_branch_cd",
+    "qCardinal": 2134,
+    "qTags": [],
+    "qSrcTables": [
+      "V_DIM_LOCATION_PNL"
+    ]
+  },
+  {
+    "qName": "pnl_branch_nm",
+    "qCardinal": 1915,
+    "qTags": [
+      "$text"
+    ],
+    "qSrcTables": [
+      "V_DIM_LOCATION_PNL"
+    ]
+  },
+  {
+    "qName": "pnl_currency_cd",
+    "qCardinal": 146,
+    "qTags": [
+      "$text",
+      "$ascii"
+    ],
+    "qSrcTables": [
+      "V_DIM_LOCATION_PNL"
+    ]
+  },
+  {
+    "qName": "pnl_currency_nm",
+    "qCardinal": 143,
+    "qTags": [
+      "$text"
+    ],
+    "qSrcTables": [
+      "V_DIM_LOCATION_PNL"
+    ]
+  },
+  {
+    "qName": "pnl_org_unit_crest_cd",
+    "qCardinal": 629,
+    "qTags": [
+      "$text",
+      "$ascii"
+    ],
+    "qSrcTables": [
+      "V_DIM_LOCATION_PNL"
+    ]
+  },
+  {
+    "qName": "pnl_org_unit_crest_nm",
+    "qCardinal": 629,
+    "qTags": [
+      "$text"
+    ],
+    "qSrcTables": [
+      "V_DIM_LOCATION_PNL"
+    ]
+  },
+  {
+    "qName": "pnl_station_cd",
+    "qCardinal": 473,
+    "qTags": [
+      "$text",
+      "$ascii"
+    ],
+    "qSrcTables": [
+      "V_DIM_LOCATION_PNL"
+    ]
+  },
+  {
+    "qName": "pnl_station_nm",
+    "qCardinal": 469,
+    "qTags": [
+      "$text",
+      "$ascii"
+    ],
+    "qSrcTables": [
+      "V_DIM_LOCATION_PNL"
+    ]
+  },
+  {
+    "qName": "pnl_station_crest_cd",
+    "qCardinal": 459,
+    "qTags": [
+      "$text",
+      "$ascii"
+    ],
+    "qSrcTables": [
+      "V_DIM_LOCATION_PNL"
+    ]
+  },
+  {
+    "qName": "pnl_district_cd",
+    "qCardinal": 37,
+    "qTags": [
+      "$text",
+      "$ascii"
+    ],
+    "qSrcTables": [
+      "V_DIM_LOCATION_PNL"
+    ]
+  },
+  {
+    "qName": "pnl_district_nm",
+    "qCardinal": 37,
+    "qTags": [
+      "$text",
+      "$ascii"
+    ],
+    "qSrcTables": [
+      "V_DIM_LOCATION_PNL"
+    ]
+  },
+  {
+    "qName": "pnl_district_crest_cd",
+    "qCardinal": 36,
+    "qTags": [
+      "$text",
+      "$ascii"
+    ],
+    "qSrcTables": [
+      "V_DIM_LOCATION_PNL"
+    ]
+  },
+  {
+    "qName": "pnl_rep_unit_crest_cd",
+    "qCardinal": 109,
+    "qTags": [
+      "$text",
+      "$ascii"
+    ],
+    "qSrcTables": [
+      "V_DIM_LOCATION_PNL"
+    ]
+  },
+  {
+    "qName": "pnl_rep_unit_crest_nm",
+    "qCardinal": 109,
+    "qTags": [
+      "$text"
+    ],
+    "qSrcTables": [
+      "V_DIM_LOCATION_PNL"
+    ]
+  },
+  {
+    "qName": "pnl_territory_cd",
+    "qCardinal": 203,
+    "qTags": [
+      "$text",
+      "$ascii"
+    ],
+    "qSrcTables": [
+      "V_DIM_LOCATION_PNL"
+    ]
+  },
+  {
+    "qName": "pnl_territory_nm",
+    "qCardinal": 202,
+    "qTags": [
+      "$text"
+    ],
+    "qSrcTables": [
+      "V_DIM_LOCATION_PNL"
+    ]
+  },
+  {
+    "qName": "pnl_territory_gps_cd",
+    "qCardinal": 202,
+    "qTags": [
+      "$text",
+      "$ascii"
+    ],
+    "qSrcTables": [
+      "V_DIM_LOCATION_PNL"
+    ]
+  },
+  {
+    "qName": "pnl_country_cd",
+    "qCardinal": 195,
+    "qTags": [
+      "$text",
+      "$ascii"
+    ],
+    "qSrcTables": [
+      "V_DIM_LOCATION_PNL"
+    ]
+  },
+  {
+    "qName": "pnl_country_nm",
+    "qCardinal": 195,
+    "qTags": [
+      "$text"
+    ],
+    "qSrcTables": [
+      "V_DIM_LOCATION_PNL"
+    ]
+  },
+  {
+    "qName": "pnl_country_crest_cd",
+    "qCardinal": 104,
+    "qTags": [
+      "$text",
+      "$ascii"
+    ],
+    "qSrcTables": [
+      "V_DIM_LOCATION_PNL"
+    ]
+  },
+  {
+    "qName": "pnl_country_cluster_cd",
+    "qCardinal": 70,
+    "qTags": [
+      "$text",
+      "$ascii"
+    ],
+    "qSrcTables": [
+      "V_DIM_LOCATION_PNL"
+    ]
+  },
+  {
+    "qName": "pnl_country_cluster_nm",
+    "qCardinal": 70,
+    "qTags": [
+      "$text",
+      "$ascii"
+    ],
+    "qSrcTables": [
+      "V_DIM_LOCATION_PNL"
+    ]
+  },
+  {
+    "qName": "pnl_country_cluster_crest_cd",
+    "qCardinal": 66,
+    "qTags": [
+      "$text",
+      "$ascii"
+    ],
+    "qSrcTables": [
+      "V_DIM_LOCATION_PNL"
+    ]
+  },
+  {
+    "qName": "pnl_subregion_cd",
+    "qCardinal": 22,
+    "qTags": [
+      "$text",
+      "$ascii"
+    ],
+    "qSrcTables": [
+      "V_DIM_LOCATION_PNL"
+    ]
+  },
+  {
+    "qName": "pnl_subregion_nm",
+    "qCardinal": 22,
+    "qTags": [
+      "$text",
+      "$ascii"
+    ],
+    "qSrcTables": [
+      "V_DIM_LOCATION_PNL"
+    ]
+  },
+  {
+    "qName": "pnl_sub_region_crest_cd",
+    "qCardinal": 18,
+    "qTags": [
+      "$text",
+      "$ascii"
+    ],
+    "qSrcTables": [
+      "V_DIM_LOCATION_PNL"
+    ]
+  },
+  {
+    "qName": "pnl_region_cd",
+    "qCardinal": 5,
+    "qTags": [
+      "$text",
+      "$ascii"
+    ],
+    "qSrcTables": [
+      "V_DIM_LOCATION_PNL"
+    ]
+  },
+  {
+    "qName": "pnl_region_nm",
+    "qCardinal": 5,
+    "qTags": [
+      "$text",
+      "$ascii"
+    ],
+    "qSrcTables": [
+      "V_DIM_LOCATION_PNL"
+    ]
+  },
+  {
+    "qName": "pnl_region_crest_cd",
+    "qCardinal": 5,
+    "qTags": [
+      "$text",
+      "$ascii"
+    ],
+    "qSrcTables": [
+      "V_DIM_LOCATION_PNL"
+    ]
+  },
+  {
+    "qName": "pnl_crest_reporting_type",
+    "qCardinal": 3,
+    "qTags": [
+      "$text",
+      "$ascii"
+    ],
+    "qSrcTables": [
+      "V_DIM_LOCATION_PNL"
+    ]
+  }
+]
