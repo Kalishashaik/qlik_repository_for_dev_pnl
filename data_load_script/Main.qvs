@@ -2,7 +2,7 @@
 LOAD
     pnl_station_id,
     pnl_branch_id,
-    pnl_branch_cd,
+    pnl_branch_cd as Branch,
     pnl_branch_nm,
     pnl_currency_cd,
     pnl_currency_nm,
@@ -36,5 +36,6 @@ FROM [lib://FRP_Forwin/Source Data/QVD File/V_DIM_LOCATION_PNL.qvd]
 (qvd);
 
 exit Script;
+
 
 
