@@ -10,7 +10,7 @@
         "description": "",
         "isBlueprintItem": true
       },
-      "rank": -0.000001,
+      "rank": -1e-8,
       "thumbnail": {
         "qStaticContentUrlDef": {}
       },
@@ -687,7 +687,7 @@
         "description": "",
         "isBlueprintItem": true
       },
-      "rank": 0.000001,
+      "rank": 1e-8,
       "thumbnail": {
         "qStaticContentUrlDef": {}
       },
@@ -1003,7 +1003,7 @@
         "description": "",
         "isBlueprintItem": true
       },
-      "rank": 0.000002,
+      "rank": 2e-8,
       "thumbnail": {
         "qStaticContentUrlDef": {}
       },
@@ -1350,9 +1350,10 @@
       },
       "qMetaDef": {
         "title": "My new sheet",
-        "description": ""
+        "description": "",
+        "isBlueprintItem": true
       },
-      "rank": 0.010002,
+      "rank": 0.00010002000000000001,
       "thumbnail": {
         "qStaticContentUrlDef": {}
       },

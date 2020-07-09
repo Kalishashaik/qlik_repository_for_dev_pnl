@@ -4,7 +4,9 @@
       "qId": "fb0ebb06-e010-419f-bbf6-e338a82decdb",
       "qType": "variable"
     },
-    "qMetaDef": {},
+    "qMetaDef": {
+      "isBlueprintItem": true
+    },
     "qName": "vtest",
     "qNumberPresentation": {
       "qType": "U",

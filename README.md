@@ -1,7 +1,7 @@
 # Qlik Application Repository 
 # Dev_Pnl
 ### 
-Created By Kalishashaik at Wed Jul 08 2020 10:57:28 GMT+0530 (India Standard Time)
+Created By Kalishashaik at Thu Jul 09 2020 12:09:25 GMT+0530 (India Standard Time)
 Sheet Title | Description
 ------------ | -------------
 Sheet1|
